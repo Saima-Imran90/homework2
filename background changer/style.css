@@ -1,0 +1,24 @@
+button{
+    margin: auto;
+    display: flex;
+  margin-top: 25%;
+  height: 50px;
+  width: 430px;
+  color: rgb(85, 81, 81);
+  font-size: xx-large;
+  border-radius: 15px;
+  border: 4px solid black;
+  background-color: rgb(198, 241, 227);
+  box-shadow: 0 0 5px cyan,0 0 25px cyan;
+}
+button:hover{
+  height: 60px;
+  width:510px ;
+  color:white;
+  font-size: 40px;
+background-color: rgb(20, 20, 20);
+  transition: 1.5s;
+  box-shadow: 0 0 5px cyan,0 0 25px cyan,0 0 50px cyan,0 0 100px cyan,0 0 200px cyan;
+
+
+}
